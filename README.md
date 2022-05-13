@@ -39,7 +39,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-    <a href="https://codepen.io/hasham-m-khan" target="blank">
+    <a href="https://codepen.io/hasham-m-khan" target="blank" style="margin-right: 10px">
         <img align="center" src="img/connect/codepen.svg" alt="CodePen" height="30" width="30" />
         <span>CodePen</span>
     </a>
