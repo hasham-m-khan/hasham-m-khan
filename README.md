@@ -5,21 +5,18 @@
     I am a full stack developer based in Texas, USA. My creative passion started out trying to eliminate the lengthy processes of creating reports in obsolete applications and automating tasks to reduce human effort. Due to the bottleneck of these applications and workflows, I eventually started branching out to web development and databases. As a developer, I am constantly looking for ways to optimize my code, looking for trends and providing the best services expected by clients.
 </p>
 
-- 🔭 I’m currently working on [codewars](https://github.com/hasham-m-khan/codewars)
-
-- 🌱 I’m currently learning **Rust**
-
-- 👯 I’m looking to collaborate on [Online Roster Tool](https://github.com/hasham-m-khan/employee-roster)
-
-- 👨‍💻 All of my projects are available at [https://hasham-khan.netlify.app/#](https://hasham-khan.netlify.app/#)
-
-- 💬 Ask me about **HTML5, CSS3, JavaScript, TypeScript**
-
-- 📫 How to reach me **hasham.m.khan@outlook.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/18RJn7y7FyrkzBbyXlkHJmppk1tiKNMxdrGyQU_IW0T0/edit#heading=h.26i6g91tndiy](https://docs.google.com/document/d/18RJn7y7FyrkzBbyXlkHJmppk1tiKNMxdrGyQU_IW0T0/edit#heading=h.26i6g91tndiy)
-
-- ⚡ Fun fact **I like to dabble in Unreal Engine in my free time**
+<ul>
+    <li>🔭 I’m currently working on [codewars](https://github.com/hasham-m-khan/codewars)</li>
+    <li>🌱 I’m currently learning **React**</li>
+    <li>👯 I’m looking to collaborate on [Online Roster Tool](https://github.com/hasham-m-khan/employee-roster)</li>
+    <li>
+        👨‍💻 All of my projects are available at [https://hasham-khan.netlify.app/#](https://hasham-khan.netlify.app/#) 
+    </li>
+    <li>💬 Ask me about **HTML5, CSS3, JavaScript, TypeScript**</li>
+    <li>📫 How to reach me **hasham.m.khan@outlook.com**</li>
+    <li>📄 Know about my [experiences](https://docs.google.com/document/d/18RJn7y7FyrkzBbyXlkHJmppk1tiKNMxdrGyQU_IW0T0/edit#heading=h.26i6g91tndiy)</li>
+    <li>⚡ Fun fact **I like to dabble in Unreal Engine in my free time**</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
