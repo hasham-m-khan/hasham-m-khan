@@ -1,8 +1,8 @@
 <img src='img/header.svg' width='100%'>
 
-<h3>Hi, my name is Hasham M Khan</h3>
+<h2>Hi, my name is Hasham M Khan</h2>
 <p>
-I am a full stack developer based in Texas, USA. My creative passion started out trying to eliminate the lengthy processes of creating reports in obsolete applications and automating tasks to reduce human effort. Due to the bottleneck of these applications and workflows, I eventually started branching out to web development and databases. As a developer, I am constantly looking for ways to optimize my code, looking for trends and providing the best services expected by clients.
+    I am a full stack developer based in Texas, USA. My creative passion started out trying to eliminate the lengthy processes of creating reports in obsolete applications and automating tasks to reduce human effort. Due to the bottleneck of these applications and workflows, I eventually started branching out to web development and databases. As a developer, I am constantly looking for ways to optimize my code, looking for trends and providing the best services expected by clients.
 </p>
 
 - 🔭 I’m currently working on [codewars](https://github.com/hasham-m-khan/codewars)
