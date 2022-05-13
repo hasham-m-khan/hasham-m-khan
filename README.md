@@ -20,28 +20,28 @@
     <tr>
         <td>
             <h3>Hair Salon</h3>
-            <a href="https://hasham-m-khan.github.io/hair-salon/"><img src="img/hair-salon.jpg"></a>
+            <a href="https://hasham-m-khan.github.io/hair-salon/"><img src="img/projects/hair-salon.jpg"></a>
         </td>
     </tr>
     <tr>
         <td>
             <h3>Cuisine Restaurant</h3>
-            <a href="https://hasham-m-khan.github.io/cuisine-restaurant/"><img src="img/cuisine-restaurant.jpg"></a>
+            <a href="https://hasham-m-khan.github.io/cuisine-restaurant/"><img src="img/projects/cuisine-restaurant.jpg"></a>
         </td>
     </tr>
     <tr>
         <td>
             <h3>Pushwork</h3>
-            <a href="https://hasham-m-khan.github.io/pushwork/"><img src="img/push-work.jpg"></a>
+            <a href="https://hasham-m-khan.github.io/pushwork/"><img src="img/projects/push-work.jpg"></a>
         </td>
     </tr>
 </table>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://codepen.io/hasham-m-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hasham-m-khan" height="30" width="40" /></a>
-<a href="https://twitter.com/hasham_m_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasham_m_khan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hasham-khan-992059152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasham-khan-992059152" height="30" width="40" /></a>
+<a href="https://codepen.io/hasham-m-khan" target="blank"><img align="center" src="img/connect/codepen.svg" alt="hasham-m-khan" height="30" width="30" /></a>
+<a href="https://twitter.com/hasham_m_khan" target="blank"><img align="center" src="img/connect/twitter.svg" alt="hasham_m_khan" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/hasham-khan-992059152" target="blank"><img align="center" src="img/connect/linkedin.svg" alt="hasham-khan-992059152" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
