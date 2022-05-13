@@ -41,7 +41,7 @@
 <p align="left">
     <a href="https://codepen.io/hasham-m-khan" target="blank">
         <img align="center" src="img/connect/codepen.svg" alt="CodePen" height="30" width="30" />
-        <span color="red">CodePen</span>
+        <span font-color="red">CodePen</span>
     </a>
     <a href="https://twitter.com/hasham_m_khan" target="blank">
         <img align="center" src="img/connect/twitter.svg" alt="Twitter" height="30" width="30" />
