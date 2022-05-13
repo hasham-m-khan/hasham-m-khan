@@ -6,15 +6,12 @@
 </p>
 
 <ul>
-    <li>🔭 I’m currently working on [codewars](https://github.com/hasham-m-khan/codewars)</li>
     <li>🌱 I’m currently learning **React**</li>
-    <li>👯 I’m looking to collaborate on [Online Roster Tool](https://github.com/hasham-m-khan/employee-roster)</li>
-    <li>
-        👨‍💻 All of my projects are available at [https://hasham-khan.netlify.app/#](https://hasham-khan.netlify.app/#) 
-    </li>
+    <li>👯 I’m looking to collaborate on any project involving languages, or other interesting subjects</li>
+    <li>👨‍💻 All of my projects are available on <a href="https://hasham-khan.netlify.app/#">my portfolio</a></li>
     <li>💬 Ask me about **HTML5, CSS3, JavaScript, TypeScript**</li>
-    <li>📫 How to reach me **hasham.m.khan@outlook.com**</li>
-    <li>📄 Know about my [experiences](https://docs.google.com/document/d/18RJn7y7FyrkzBbyXlkHJmppk1tiKNMxdrGyQU_IW0T0/edit#heading=h.26i6g91tndiy)</li>
+    <li>📫 How to reach me <a href="mailto:hasham.m.khan@outlook.com">**hasham.m.khan@outlook.com**</a></li>
+    <li>📄 Know about my <a href="https://docs.google.com/document/d/18RJn7y7FyrkzBbyXlkHJmppk1tiKNMxdrGyQU_IW0T0/edit#heading=h.26i6g91tndiy">experiences</a></li>
     <li>⚡ Fun fact **I like to dabble in Unreal Engine in my free time**</li>
 </ul>
 
