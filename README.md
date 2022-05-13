@@ -15,6 +15,28 @@
     <li>⚡ Fun fact **I like to dabble in Unreal Engine in my free time**</li>
 </ul>
 
+<h2>Projects</h2>
+<table>
+    <tr>
+        <td>
+            <h3>Hair Salon</h3>
+            <a href=""#><img src="img/hair-salon.jpg"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h3>Hair Salon</h3>
+            <a href=""#><img src="img/hair-salon.jpg"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h3>Hair Salon</h3>
+            <a href=""#><img src="img/hair-salon.jpg"></a>
+        </td>
+    </tr>
+</table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/hasham-m-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hasham-m-khan" height="30" width="40" /></a>
