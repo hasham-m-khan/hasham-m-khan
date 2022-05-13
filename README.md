@@ -20,19 +20,19 @@
     <tr>
         <td>
             <h3>Hair Salon</h3>
-            <a href=""#><img src="img/hair-salon.jpg"></a>
+            <a href="https://hasham-m-khan.github.io/hair-salon/"><img src="img/hair-salon.jpg"></a>
         </td>
     </tr>
     <tr>
         <td>
-            <h3>Hair Salon</h3>
-            <a href=""#><img src="img/hair-salon.jpg"></a>
+            <h3>Cuisine Restaurant</h3>
+            <a href="https://hasham-m-khan.github.io/cuisine-restaurant/"><img src="img/cuisine-restaurant.jpg"></a>
         </td>
     </tr>
     <tr>
         <td>
-            <h3>Hair Salon</h3>
-            <a href=""#><img src="img/hair-salon.jpg"></a>
+            <h3>Pushwork</h3>
+            <a href="https://hasham-m-khan.github.io/pushwork/"><img src="img/push-work.jpg"></a>
         </td>
     </tr>
 </table>
