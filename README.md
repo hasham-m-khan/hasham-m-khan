@@ -1,3 +1,7 @@
+<img src='img/header.eps' width='100%'>
+
+
+
 <h1 align="center">Hi 👋, I'm Hasham Khan</h1>
 <h3 align="center">A creative full stack web developer from Texas, USA!</h3>
 
