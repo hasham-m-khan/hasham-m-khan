@@ -39,9 +39,27 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://codepen.io/hasham-m-khan" target="blank"><img align="center" src="img/connect/codepen.svg" alt="hasham-m-khan" height="30" width="30" /></a>
-<a href="https://twitter.com/hasham_m_khan" target="blank"><img align="center" src="img/connect/twitter.svg" alt="hasham_m_khan" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/hasham-khan-992059152" target="blank"><img align="center" src="img/connect/linkedin.svg" alt="hasham-khan-992059152" height="30" width="30" /></a>
+    <a href="https://codepen.io/hasham-m-khan" target="blank">
+        <img align="center" src="img/connect/codepen.svg" alt="CodePen" height="30" width="30" />
+    </a>
+    <a href="https://twitter.com/hasham_m_khan" target="blank">
+        <img align="center" src="img/connect/twitter.svg" alt="Twitter" height="30" width="30" />
+    </a>
+    <a href="https://linkedin.com/in/hasham-khan-992059152" target="blank">
+        <img align="center" src="img/connect/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+    </a>
+    <a href="https://glitch.com/@hasham.moiz.khan" target="blank">
+        <img align="center" src="img/connect/glitch.svg" alt="Glitch" height="30" width="30" />
+    </a>
+    <a href="https://hasham-khan.netlify.app/" target="blank">
+        <img align="center" src="img/connect/web.svg" alt="Portfolio" height="30" width="30" />
+    </a>
+    <a href="mailto:hasham.m.khan@outlook.com" target="blank">
+        <img align="center" src="img/connect/email.svg" alt="Email" height="30" width="30" />
+    </a>
+    <a href="https://docs.google.com/document/d/18RJn7y7FyrkzBbyXlkHJmppk1tiKNMxdrGyQU_IW0T0/edit#heading=h.q2asxhz1b44m" target="blank">
+        <img align="center" src="img/connect/cv.svg" alt="Resume" height="30" width="30" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
