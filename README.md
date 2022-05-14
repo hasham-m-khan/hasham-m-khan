@@ -1,4 +1,4 @@
-<img src='img/header.svg' width='100%'>
+<img src='img/header.jpg' width='100%'>
 
 <h2>Hi, my name is Hasham M Khan</h2>
 <p>
